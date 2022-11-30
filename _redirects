@@ -1,0 +1,3 @@
+/tiang https://tiang.jalan.co.id/tiang 301
+/tiang/* https://tiang.jalan.co.id/tiang/:splat 301
+/tiang-* https://tiang.jalan.co.id/tiang-:splat 301
